@@ -1,0 +1,40 @@
+company;record_type;artist;name;size;tracks;format
+Llorona Records;VINYL;The Beatles;Sgt. Pepper's Lonely Hearts Club Band;10;7;
+Llorona Records;VINYL;The Beach Boys;Pet Sounds;10;3;
+Llorona Records;CD;The Beatles;Revolver;;5;Dual Disc
+El Dorado Records;CD;Bob Dylan;Highway 61 Revisited;;13;Copy Control
+El Dorado Records;CD;The Beatles;Rubber Soul;;15;Dual Disc
+Llorona Records;CD;Marvin Gaye;What's Going On;;18;Red Book Standard
+El Dorado Records;CD;The Rolling Stones;Exile on Main St.;;3;Dual Disc
+El Dorado Records;CD;The Clash;London Calling;;4;Copy Control
+Llorona Records;CD;Bob Dylan;Blonde on Blonde;;6;Copy Control
+Llorona Records;VINYL;The Beatles;"The Beatles (""The White Album"")";7;4;
+Llorona Records;VINYL;Elvis Presley;The Sun Sessions;7;17;
+Llorona Records;VINYL;Miles Davis;Kind of Blue;7;2;
+Llorona Records;VINYL;The Velvet Underground;The Velvet Underground & Nico;7;1;
+El Dorado Records;CD;The Beatles;Abbey Road;;13;Red Book Standard
+El Dorado Records;CD;The Jimi Hendrix Experience;Are You Experienced;;18;Red Book Standard
+Llorona Records;VINYL;Bob Dylan;Blood on the Tracks;12;11;
+Llorona Records;VINYL;Nirvana;Nevermind;12;6;
+Llorona Records;VINYL;Bruce Springsteen;Born to Run;12;6;
+Llorona Records;VINYL;Van Morrison;Astral Weeks;12;12;
+Llorona Records;VINYL;Michael Jackson;Thriller;12;14;
+Llorona Records;VINYL;Chuck Berry;The Great Twenty_Eight;12;16;
+Llorona Records;VINYL;Robert Johnson;The Complete Recordings;12;11;
+Llorona Records;VINYL;John Lennon / Plastic Ono Band;John Lennon/Plastic Ono Band;12;13;
+Llorona Records;VINYL;Stevie Wonder;Innervisions;12;12;
+Llorona Records;VINYL;James Brown;Live at the Apollo/ 1962;12;14;
+Llorona Records;VINYL;Fleetwood Mac;Rumours;12;14;
+Llorona Records;VINYL;U2;The Joshua Tree;12;16;
+Llorona Records;VINYL;The Who;Who's Next;12;5;
+Llorona Records;CD;Led Zeppelin;Led Zeppelin;;8;Dual Disc
+Llorona Records;CD;Joni Mitchell;Blue;;8;Red Book Standard
+Llorona Records;CD;Bob Dylan;Bringing It All Back Home;;17;Red Book Standard
+Llorona Records;CD;The Rolling Stones;Let It Bleed;;14;Red Book Standard
+El Dorado Records;CD;Ramones;Ramones;;9;Red Book Standard
+El Dorado Records;CD;The Band;Music From Big Pink;;18;Dual Disc
+Llorona Records;CD;David Bowie;The Rise and Fall of Ziggy Stardust and the Spiders From Mars;;6;Red Book Standard
+Llorona Records;CD;Carole King;Tapestry;;9;Red Book Standard
+El Dorado Records;CD;Eagles;Hotel California;;1;Red Book Standard
+El Dorado Records;CD;Muddy Waters;The Anthology;;5;Red Book Standard
+El Dorado Records;CD;The Beatles;Please Please Me;;13;Red Book Standard
